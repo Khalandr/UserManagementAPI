@@ -44,13 +44,33 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Options": {
               "target": "Package",
               "version": "[9.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[7.2.0, )"
+            },
+            "System.Text.Encodings.Web": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             }
           },
           "imports": [

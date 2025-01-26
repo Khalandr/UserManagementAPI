@@ -34,3 +34,7 @@ C:\Users\khali\Documents\projects\newManagementAPI\UserManagementAPI\UserManagem
 C:\Users\khali\Documents\projects\newManagementAPI\UserManagementAPI\UserManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\khali\Documents\projects\newManagementAPI\UserManagementAPI\UserManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\khali\Documents\projects\newManagementAPI\UserManagementAPI\UserManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\khali\Documents\projects\newManagementAPI\UserManagementAPI\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.sourcelink.json
+C:\Users\khali\Documents\projects\newManagementAPI\UserManagementAPI\UserManagementAPI\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\khali\Documents\projects\newManagementAPI\UserManagementAPI\UserManagementAPI\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\khali\Documents\projects\newManagementAPI\UserManagementAPI\UserManagementAPI\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
